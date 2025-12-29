@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://cameql8h5pa2x"]
+
+[node name="BreakableBlock" type="StaticBody2D"]
