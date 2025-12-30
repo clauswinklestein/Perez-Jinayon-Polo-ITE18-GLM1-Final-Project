@@ -1,5 +1,5 @@
 # Perez-Jinayon-Polo-ITE18-GLM1-Final-Project
-**Coin Runner: Neon Nights**
+**Coin Runner**
 
 An arcade survival game
 
