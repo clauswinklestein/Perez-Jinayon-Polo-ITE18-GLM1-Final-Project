@@ -34,7 +34,7 @@ Game Engine: Godot 4.5 (GDScript)
 
 3\. Ensure the required import files (sprites, sounds) are placed in the correct directories.
 
-4\. Run Main.tscn to start the game.
+4\. Run game.tscn to start the game.
 
 **Controls:**
 Arrow Keys or WASD – Move
