@@ -28,8 +28,11 @@ Game Engine: Godot 4.5 (GDScript)
 
 **Setup Instructions**
 1. Clone or download the project repository.
+
 2\. Open the project in Godot 4.5.
+
 3\. Ensure the required import files (sprites, sounds) are placed in the correct directories.
+
 4\. Run Main.tscn to start the game.
 
 **Controls:**
