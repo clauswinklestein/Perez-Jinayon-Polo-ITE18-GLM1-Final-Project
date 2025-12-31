@@ -22,8 +22,11 @@ Collect as many coins as possible.
 
 Game Engine: Godot 4.5 (GDScript)
 **Art \& Assets:** Aseprite or Krita for sprites, Blender for 3D models (if 2.5D)
+
 **Audio:** BFXR for sound effects, royalty-free music
+
 **Version Control:** Git + GitHub/GitLab
+
 **Platform:** PC (with potential export to Web and mobile)
 
 **Setup Instructions**
@@ -38,13 +41,19 @@ Game Engine: Godot 4.5 (GDScript)
 
 **Controls:**
 Arrow Keys or WASD – Move
+
 Space – Jump
+
 ESC – Pause/Menu
 
 **Team Roles**
 Bernard Born T. Perez (Project Lead): Concept, story, level design
+
 EdrilMae Jinayon (Programmer): Player movement, enemy AI, coin systems, UI
+
 Khyle Adrian Polo (Artist): Character sprites, environment tiles, enemy designs
+
 EdrilMae Jinayon (Sound Designer): SFX, background music
+
 Khyle Adrian Polo (QA/Testing): Bug reporting, gameplay balancing
 
