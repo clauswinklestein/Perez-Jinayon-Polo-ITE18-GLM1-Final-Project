@@ -33,11 +33,13 @@ Game Engine: Godot 4.5 (GDScript)
 
 1. Clone or download the project repository.
 
-2\. Open the project in Godot 4.5.
+2. Extract the zip file
 
-3\. Ensure the required import files (sprites, sounds) are placed in the correct directories.
+3\. Make sure you have Godot 4.5 installed.
 
-4\. Run game.tscn to start the game.
+4\. Ensure the required import files (sprites, sounds) are placed in the correct directories.
+
+5\. Run Coin Runner.exe to start the game.
 
 **Controls:**
 Arrow Keys or WASD – Move
