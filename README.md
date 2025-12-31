@@ -27,7 +27,7 @@ Game Engine: Godot 4.5 (GDScript)
 **Platform:** PC (with potential export to Web and mobile)
 
 **Setup Instructions**
-1. Clone or download the project repository.
+1\. Clone or download the project repository.
 
 2\. Open the project in Godot 4.5.
 
